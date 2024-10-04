@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam8112005&label=Profile%20views&color=0e75b6&style=flat" alt="shivam8112005" /> </p>
 
 
-- 🔭 I’m currently working on [SwiftText](https://github.com/shivam8112005/SwiftText)
+- 🔭 I’m currently working on **Opensource Projects**
 
 - 🌱 I’m currently learning **React JS**
 
