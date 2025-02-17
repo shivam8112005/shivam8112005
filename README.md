@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 <h3 align="center">A passionate Software Engineering student.</h3>
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" height="220" style="width: 100vw; " />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam8112005&label=Profile%20views&color=0e75b6&style=flat" alt="shivam8112005" /> </p>
 
 
