@@ -8,13 +8,9 @@
 
 - 🔭 I’m currently working on **Opensource Projects**
 
-- 🌱 I’m currently learning **React JS**
-
-- 💬 Ask me about **Java , Java Script , Frontend**
-
 - 📫 How to reach me **shivamshukla8112005@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/c/8c9551ddd4592347/EYo6G-L-mLVKi7BTgYCXa14Bo7O-6nRP3iJUFwm2P_r1hw?e=aSj3Py](https://1drv.ms/b/c/8c9551ddd4592347/EYo6G-L-mLVKi7BTgYCXa14Bo7O-6nRP3iJUFwm2P_r1hw?e=aSj3Py)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pAqBctg0A9XL-bj4F2l7gwDYzNLl4Qdf/view?usp=drive_link)
 
 - ⚡ Fun fact **I love solving LeetCode problems; it's like a puzzle for my brain!**
 
