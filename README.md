@@ -6,13 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam8112005&label=Profile%20views&color=0e75b6&style=flat" alt="shivam8112005" /> </p>
 
 
-- 🔭 I’m currently working on **Opensource Projects**
+- 🔭 I’m currently working on **Machine Learning Projects** [Kaggle](https://www.kaggle.com/shivams811)
 
 - 📫 How to reach me **shivamshukla8112005@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pAqBctg0A9XL-bj4F2l7gwDYzNLl4Qdf/view?usp=drive_link)
 
-- ⚡ Fun fact **I love solving LeetCode problems; it's like a puzzle for my brain!**
+- ⚡ Fun fact **I love solving LeetCode problems; it's like a puzzle for my brain!** [Leetcode](https://leetcode.com/u/shivam811/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
